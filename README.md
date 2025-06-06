@@ -28,6 +28,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 🛠️ Build Your Own Executable
+```bash
+python compile.py  # Check /dist folder after
+```
+
 ## 🎮 How to Play
 ```bash
 1. Choose AI opponents and difficulty
@@ -35,12 +40,6 @@ python main.py
 3. Type 'draw' to take a card
 4. First player to have zero cards in their hand wins!
 ```
-
-## 🛠️ Build Your Own Executable
-```bash
-python compile.py  # Check /dist folder after
-```
-
 
 ## 🌟 About This Project
 
