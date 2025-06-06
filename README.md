@@ -18,7 +18,7 @@ A fully-featured single-player UNO card game built for the terminal, featuring A
 ## 📦 Installation
 ```bash
 # Clone the repo
-git clone https://github.com/ArktiPy/UnoCLI.git
+git clone https://github.com/ArktiCode/UnoCLI
 cd UnoCLI
 
 # Install dependencies (just PyInstaller if building EXE)
